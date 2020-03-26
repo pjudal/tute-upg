@@ -1,0 +1,38 @@
+{
+    "$jason": {
+        "head": {
+            "title": "{ ???????}"
+        },
+        "body": {
+            "style": {
+                "background": "#ffffff",
+                "border": "none"
+            },
+            "sections": [
+                {
+                    "items": [
+                        {
+                            "type": "vertical",
+                            "style": {
+                                "padding": 30,
+                                "spacing": 20,
+                                "align": "center"
+                            },
+                            "components": [
+                                {
+                                    "type": "label",
+                                    "text": "It's ALIVE!",
+                                    "style": {
+                                        "align": "center",
+                                        "font": "Courier-Bold",
+                                        "size": 26
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
